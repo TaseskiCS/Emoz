@@ -1,4 +1,18 @@
-## Overview :sparkles:
+
+### Overview :sparkles:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) [HiveDB](https://github.com/hivedb)
+
+● Emotion-analyzing journal mobile app with Speech-To-Text analysis using BERT ML model to analyze journal entry emotion
+
+● Highly graphical and chart-heavy dashboard representing time and date based analysis of journal entries using Flutter/Dart
+
+● Cohesive backend RESTful API built in Python with Django providing CRUD operations tied to a non-relational HIVE database
+
+● Utilizes OpenAI’s Whisper/ChatGPT for calculating the emotion id which is send to frontend
+
+
+Presentation
 - https://docs.google.com/presentation/d/1rDxEwDhC16h3SyqXu0pTTeUneiPniajZnS6LJzaEl1E/edit?usp=sharing
 
 ## Development :computer:
